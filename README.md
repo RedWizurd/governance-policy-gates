@@ -27,6 +27,13 @@ python3 validate_policies.py
 python3 agent.py --mode builder --approve-risky=false
 ```
 
+## Usage
+```bash
+make setup
+make check
+make run
+```
+
 ## Roadmap
 - Add policy decision explainers for operator transparency.
 - Add signed policy bundles for deployment integrity.
