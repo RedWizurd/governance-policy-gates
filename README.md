@@ -1,2 +1,9 @@
-# axeon-governance-policy
-Governance &amp; policy enforcement (memory_policy.json, HITL tiers, approvals like --approve-risky).
+# governance-policy-gates
+
+Enforces governance policies with JSON configs, HITL approval tiers, risky-operation gates, and session-scoped state controls.
+
+## Purpose
+This repository is a standalone component from the broader background consultation system and is designed to be used independently.
+
+## Status
+MVP scaffold with baseline documentation.
