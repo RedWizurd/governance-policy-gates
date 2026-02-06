@@ -1,0 +1,5 @@
+{
+  "session_scope": "per_session",
+  "retention": "ephemeral",
+  "max_events": 500
+}

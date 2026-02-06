@@ -1,0 +1,7 @@
+{
+  "tiers": {
+    "read": "auto",
+    "write": "human",
+    "external_claim": "human"
+  }
+}

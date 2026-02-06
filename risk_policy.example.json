@@ -1,0 +1,5 @@
+{
+  "risky_actions": ["write", "external_claim"],
+  "require_flag": true,
+  "flag_name": "--approve-risky"
+}
